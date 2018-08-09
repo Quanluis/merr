@@ -12,6 +12,18 @@ q {
     color: white;
     font-size: 3rem;
 }
+p{
+	margin-top: -5rem;
+	display: none;
+}
+img {
+	height: auto;
+	width: 13rem;
+	margin: auto;
+	display: none;
+	border: 10px dotted pink;
+
+}
 .myButton {
 	-moz-box-shadow:inset 0px 1px 0px 0px #fbafe3;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #fbafe3;
