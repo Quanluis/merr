@@ -6,7 +6,8 @@
 h1 {
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
-    padding-bottom: 50px;
+	padding-bottom: 50px;
+	color: purple;
 }
 q {
     color: white;
@@ -21,7 +22,7 @@ img {
 	width: 13rem;
 	margin: auto;
 	display: none;
-	border: 10px dotted pink;
+	border: 10px solid pink;
 
 }
 .myButton {
